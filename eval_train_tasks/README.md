@@ -47,5 +47,3 @@ python eval_generative.py \
 - `--model <MODEL_PATH>`: Path to the LLM weights.
 - `--compute_perplexity_diff`: (Optional) Include this flag if you want to compute the perplexity difference.
 - `--num_splits <NUM_SPLITS>`: (Optional) Number of batches to split the evaluation into when computing perplexities. Default is `1`.
-```
-
